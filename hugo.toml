@@ -1,4 +1,4 @@
-baseURL = "https://adritian-demo.vercel.app/"
+#baseURL = "https://adritian-demo.vercel.app/"
 title = "mwhyte.dev"
 languageCode = "en"
 
